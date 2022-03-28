@@ -1,0 +1,96 @@
+.modal {
+    width: 600px;
+    height: 600px;
+    background-color: #bbbbbb;
+    top: 210px;
+    right: 10px;
+    position: fixed;
+    color: white;
+    border-radius: 10px;
+    padding: 30px;
+    overflow: auto;
+    color: black;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);;
+}
+
+
+.modal::-webkit-scrollbar {
+    width: 10px;
+
+}
+
+.modal::-webkit-scrollbar-track {
+    background: antiquewhite;
+    width: 5px;
+}
+
+.modal::-webkit-scrollbar-thumb {
+    background: linear-gradient(to bottom, #da3737, #daac37);
+    border-radius: 8px;
+    border: 1px solid antiquewhite;
+}
+
+.podr {
+    border: 1px solid black;
+    border-radius: 3px;
+    margin: 1px;
+    height: auto;
+    padding-bottom: 10px;
+    background-color: #f1eded;
+}
+
+.dbut {
+    height: auto;
+    padding: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    display: block;
+}
+
+.active {
+    display: block;
+    color: white;
+}
+
+.noactive {
+    display: none;
+}
+
+.hh {
+    color: #151414;
+}
+
+.bt {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 10px;
+    right: 10px;
+}
+
+.bt img {
+    width: 20px;
+    height: 20px;
+}
+
+.podr {
+    display: flex;
+    width: 100%;
+    height: 100px;
+}
+
+.image {
+    width: 80px;
+    height: 80px;
+}
+
+.butoon {
+    position: relative;
+    width: 300px;
+    height: 40px;
+    background-color: #da3737;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 20px;
+}

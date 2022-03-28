@@ -1,0 +1,102 @@
+.dd{
+    color:black;
+}
+.dive {
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.diva{
+    min-width: 250px;
+    display: block;
+    width: 22%;
+    height: auto;
+    padding-bottom: 20px;
+    border:1px solid #cbcbcb ;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.24);
+    background-color: white;
+}
+.but2{
+    margin: 2px 5px;
+    width: 25px;
+    height: 25px;
+}
+.but1{
+    margin: 2px 5px;
+    width: 25px;
+    height: 25px;
+}
+.but{
+    background-color: red;
+    color:white;
+    border: none;
+    width: 90px;
+    height: 30px;
+    border-radius: 4px;
+    position: relative;
+    float: right;
+    right: 10px;
+    text-align: center;
+}
+.wpapper{
+    position: relative;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+}
+.image{
+    width: 60%;
+    position: relative;
+    margin: 0 auto;
+    justify-content: center;
+}
+.name{
+    text-align: center;
+    margin: 0 auto;
+    color:black;
+    width: 80%;
+}
+.ingr{
+    padding:10px;
+    text-align: center;
+}
+.but{
+    background-color: red;
+    color:white;
+    border: none;
+    width: 90px;
+    height: 30px;
+    border-radius: 4px;
+    position: relative;
+    float: right;
+    right: 10px;
+}
+.select{
+    position: relative;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    left:3%;
+}
+.razdely{
+    display: flex;
+    width: 600px;
+}
+
+.headPizza{
+    color: #154f64;
+    margin: 0 auto;
+}
+
+.cost{
+    padding-left: 30px;
+}
+

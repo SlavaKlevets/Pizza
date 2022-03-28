@@ -1,0 +1,14 @@
+.wrapp{
+    width: 100%;
+    height: auto;
+    color:red;
+    background: url(https://dominos.by/static/images/img-3c21e4.png);
+    padding-bottom: 20px;
+    margin: 0 auto;
+    justify-content: center;
+}
+.wrapper{
+    width: 100%;
+    height:auto;
+    background: url(https://dominos.by/static/images/img-3c21e4.png);
+}

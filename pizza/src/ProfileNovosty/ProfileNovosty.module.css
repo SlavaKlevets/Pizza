@@ -1,0 +1,57 @@
+.ad{
+    width: 200px;
+    height: 200px;
+}
+.dd{
+    color:black;
+}
+.dive {
+    margin: 20px;
+    width: 80%;
+    height: auto;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.diva{
+    min-width: 250px;
+    display: flex;
+    width: 100%;
+    height: auto;
+    border:1px solid #cbcbcb ;
+    margin: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.24);
+    background-color: white;
+
+}
+.wpapper{
+    display: flex;
+    position: relative;
+    text-align: center;
+}
+.image{
+    width: 60%;
+    position: relative;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.name{
+    margin: 0 auto;
+    color: #154f64;
+}
+.ingr{
+    padding:10px;
+    color: #154f64;
+}
+.wr0{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    padding-top: 120px;
+}

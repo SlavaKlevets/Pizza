@@ -1,0 +1,78 @@
+.ad{
+    width: 200px;
+    height: 200px;
+}
+.dd{
+    color:black;
+}
+.dive {
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.diva{
+    min-width: 250px;
+    display: block;
+    width: 22%;
+    height: auto;
+    border:1px solid #cbcbcb ;
+    justify-content: center;
+    margin: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.24);
+    background-color: white;
+
+}
+.wpapper{
+    position: relative;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+}
+.image{
+    width: 60%;
+    position: relative;
+    margin: 0 auto;
+    justify-content: center;
+}
+.wrapname{
+    margin: 0 auto;
+    justify-content: center;
+}
+.name{
+    margin: 0 auto;
+    text-align: center;
+    color:black;
+    width: 80%;
+}
+.ingr{
+    padding:10px;
+    text-align: center;
+}
+.but{
+    background-color: red;
+    color:white;
+    border: none;
+    width: 90px;
+    height: 30px;
+    border-radius: 4px;
+    position: relative;
+    float: right;
+    right: 10px;
+}
+.select{
+    position: relative;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    left:3%;
+}
+.cost{
+    padding-left: 20px;
+}

@@ -1,0 +1,148 @@
+.dd{
+    color:black;
+}
+.dive {
+    margin-top: 20px;
+    width: 90%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.diva{
+    position: relative;
+    display: block;
+    width: 19%;
+    min-width: 250px;
+    height: auto;
+    border:1px solid #cbcbcb ;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.24);
+    background-color: white;
+    padding-bottom: 20px;
+}
+.wpapper{
+    position: relative;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+}
+.image{
+    width: 60%;
+    position: relative;
+    margin: 0 auto;
+    justify-content: center;
+    margin-top: 20px;
+
+
+}
+.name{
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+}
+.ingr{
+    padding:10px;
+    color: #7e7979;
+}
+.but{
+    background-color: red;
+    color:white;
+    border: none;
+    width: 90px;
+    height: 30px;
+    border-radius: 4px;
+    position: relative;
+    float: right;
+    right: 10px;
+    text-align: center;
+}
+.but2{
+    margin: 2px 5px;
+    width: 25px;
+    height: 25px;
+}
+.but1{
+    margin: 2px 5px;
+    width: 25px;
+    height: 25px;
+}
+
+.dop22, .dop11{
+    display: flex;
+    background-color: rgba(0,121,174,.06);
+    margin: 3px;
+    border-radius: 8px;
+    width: 90%;
+    margin-left: 15px;
+    color:black;
+}
+.img1, .img2{
+    width: 50px;
+    height: 40px;
+}
+.blok{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #92b6de;
+    justify-content: center;
+    margin: 0 auto;
+    margin:6px;
+}
+.cost {
+    color: #8c8787;
+    padding-left: 30px;
+}
+.select{
+    position: relative;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    left:3%;
+}
+.dive2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color:black;
+}
+
+.razdely{
+    display: flex;
+    width: 600px;
+    padding-left: 10%;
+}
+
+.headPizza{
+    color: #154f64;
+    margin: 0 auto;
+}
+
+.classick{
+    cursor: pointer;
+    position: relative;
+    width: auto;
+    color: #154f64;
+    padding-left: 1%;
+    font-size: 15px;
+    top:15px;
+    font-weight: normal;
+}
+.im{
+    width: 100%;
+    height: auto;
+}
+.images{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+

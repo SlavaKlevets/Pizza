@@ -1,0 +1,84 @@
+.wrapper{
+    position: sticky;
+    z-index: 50;
+    top: 0;
+    cursor: pointer;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    background-color: white;
+    padding-top: 20px;
+    height:50px;
+    box-shadow: 0 0  5px rgba(167, 199, 238, 0.24);
+    opacity: 0.95;
+}
+.spanST{
+    display: block;
+    position: relative;
+    padding-top:6px;
+    font-size: 13px;
+}
+.kolVo{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 50%;
+    border: 1px solid white;
+    top:-22px;
+    left: 33px;
+}
+@media (max-width:1000px) {
+    .wrapper{
+        display: none;
+        position: relative;
+    }
+    .buttomKorz{
+        margin-left: 100px;
+    }
+}
+.wrapper>ul{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+.buttomKorz{
+    margin-left: 100%;
+}
+.wrapper>ul>li{
+    list-style: none;
+    margin-left: 10px;
+
+}
+.wrapper>ul>li>a{
+    text-decoration: none;
+}
+.ss{
+    border-right: 1px solid rgba(0, 0, 0, 0.16);
+    padding-right: 5px;
+}
+.active{
+    border-bottom: 1px solid red;
+    width: 200px;
+    transition-property: width;
+}
+.ddd{
+    padding-right: 5px;
+    border-right: 1px solid #b7b5b5;
+}
+
+.customIcon{
+    width:24px;
+    height:24px;
+}
+.customButton{
+    width: 150px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    position: relative;
+    top:5px;
+    left: -150px;
+}

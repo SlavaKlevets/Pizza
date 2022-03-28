@@ -1,0 +1,59 @@
+.dd{
+    color:black;
+}
+.dive {
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.diva{
+    display: block;
+    width: 20%;
+    height: auto;
+    padding-bottom: 5px;
+    border:1px solid #cbcbcb ;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.24);
+    background-color: white;
+
+}
+
+.image{
+    width: 98%;
+    position: relative;
+    margin: 0 auto;
+    justify-content: center;
+    padding:3px;
+}
+
+.razdely{
+    display: flex;
+    width: 600px;
+}
+
+.headPizza{
+    color: #154f64;
+    margin: 0 auto;
+}
+.name{
+    color: black;
+    font-size: 17px;
+    font-weight: normal;
+    padding: 0px 10px;
+}
+.ingr{
+    color: rgba(0, 0, 0, 0.56);
+    font-size: 14px;
+    font-weight: 300;
+    padding:0px 10px;
+    line-height: 14px;
+    font-style: normal;
+}
+
